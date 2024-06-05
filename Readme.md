@@ -1,12 +1,18 @@
+
 Problem Statement
 
 As a data scientist at a home electronics company specializing in state-of-the-art smart televisions, your task is to develop an innovative feature that allows users to control the TV through gesture recognition. The system will utilize a webcam mounted on the TV to continuously monitor five distinct gestures, each corresponding to a specific command:
 
 Thumbs up: Increase the volume
+
 Thumbs down: Decrease the volume
+
 Left swipe: Jump backwards 10 seconds
+
 Right swipe: Jump forward 10 seconds
+
 Stop: Pause the movie
+
 
 Dataset
 
