@@ -6,6 +6,7 @@ Thumbs down: Decrease the volume
 Left swipe: Jump backwards 10 seconds
 Right swipe: Jump forward 10 seconds
 Stop: Pause the movie
+
 Dataset
 The dataset consists of a few hundred videos, each categorized into one of the five gesture classes. These videos, typically 2-3 seconds long, are divided into sequences of 30 frames (images). Each video is recorded by different individuals performing one of the five gestures in front of a webcam, simulating real-world usage scenarios.
 
